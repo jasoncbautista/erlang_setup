@@ -1,5 +1,5 @@
 -module(tut1).
--export([fac/1]).
+-export([fac/1, mult/2]).
 
 
 
