@@ -11,4 +11,9 @@ fac(N) ->
     N * fac(N -1).
 
 
+mult(X, Y) ->
+    X * Y.
+
+
+
 
