@@ -1,5 +1,6 @@
 -module(tut1).
--export([fac/1, mult/2, echo/1]).
+-compile([debug_info, export_all]).
+% -export([fac/1, mult/2, echo/1]).
 
 
 
